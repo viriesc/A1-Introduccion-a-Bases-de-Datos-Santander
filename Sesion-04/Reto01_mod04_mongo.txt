@@ -1,0 +1,29 @@
+--Reto 01 
+--Modulo 4
+##Ej1
+{
+ project: {
+  date: 1,
+  name: 1,
+  text: 1
+ }
+}
+
+
+
+##ej2
+
+{
+ project: {
+  title: 1,
+  cast: 1,
+  year: 1
+ }
+}
+
+##EJ3
+{
+ project: {
+  name: 1,
+  password: 1
+ }}
